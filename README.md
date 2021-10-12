@@ -1,4 +1,4 @@
-# onetap-v2-reversal
+# Onetap-V2-Reversal
 
 Releasing due to most of this information being outdated (and the fact I don't give two shits about the CS:GO scene anymore)            
 
